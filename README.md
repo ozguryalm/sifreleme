@@ -1,16 +1,15 @@
-# sifreleme
+İki Proje Dökümanı Yollanan Klasör içerisindedir.( Engelleri Kaldıralım Projesi, Güvenli dijital hayat projesi)
+Engelleri kaldıralım Projesi apk dosyası da içerisindedir 
+Projelerde Yer Alan 
 
-A new Flutter project.
+170541039 Uğur Can IŞILDAR
+180541014 Özgür YALIM
+170541055 Musa KARABULUT
 
-## Getting Started
+Github linki (Engelleri Kaldıralım Projesi): https://github.com/ozguryalm/flutter_object_detection
+ Anlatım linki: https://www.youtube.com/watch?v=LfGbbDCMAQU
 
-This project is a starting point for a Flutter application.
+Github linki ( Güvenli dijital hayat projesi) :
+https://github.com/ozguryalm/sifreleme
+ Anlatım linki: https://www.youtube.com/watch?v=9mFXHQczqD8
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
